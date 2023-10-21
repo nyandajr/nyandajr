@@ -1,11 +1,14 @@
-- 👋 Hello, my name is @nyandajr and I am a data scientist and machine learning enthusiast. 
-- I am currently working on various data science related projects and am always looking to collaborate on similar projects.
--  If you are interested in working together, please don't hesitate to reach out to me via my project emails freddynyanda@proton.me: .
-Skills
+👋 Hi there! I'm @nyandajr, a passionate Data Scientist and Machine Learning Enthusiast.
+
+🔍 Currently, I'm diving deep into various data science projects, and I'm always on the lookout for exciting collaborations.
+
+🛠 Skills:
+
 Data Science
 Machine Learning
-Programming languages: Python, R
+Programming: Python, R
 Tools: Jupyter Notebook, Tensorflow, Scikit-learn
-Contact
-Email: freddynyanda@proton.me
-Thank you for visiting my profile, I look forward to connecting with you!
+📧 Let's Connect! If you're keen on collaborating or just want to chat, feel free to drop me an email at freddynyanda@proton.me.
+
+🙏 Thanks for stopping by! Looking forward to connecting with fellow tech enthusiasts.
+
