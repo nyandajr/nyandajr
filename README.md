@@ -52,6 +52,7 @@ Passionate about turning raw data into intelligent systems. I build pipelines, t
 
 ### 📈 [EA Financial Tracker](https://github.com/nyandajr/ea-financial-tracker)
 > Hourly East African forex & crypto tracker with ML predictions. Tracks USD/TZS, USD/KES, USD/UGX, USD/EUR + BTC, ETH, BNB. Auto-commits data every hour.
+> 🔴 **Live Dashboard:** [ea-financial-tracker.streamlit.app](https://ea-financial-tracker.streamlit.app)
 
 ### 📰 [East Africa News Sentiment](https://github.com/nyandajr/East_Africa_News_Sentiment)
 > NLP sentiment analysis pipeline for East African news headlines. Hourly automated scraping, VADER scoring, and trend visualization.
