@@ -9,9 +9,6 @@
 
 Passionate about turning raw data into intelligent systems. I build pipelines, train models, and automate production workflows to deliver measurable impact.
 
-- 🔭 Current focus: **EA Financial Tracker** (hourly East African forex & crypto predictions) and **East Africa News Sentiment** (NLP sentiment analysis pipeline)
-- 🌱 Currently practising: **Deep Learning with TensorFlow** and **Azure AI certifications**
-- 🤖 My bots commit to GitHub while I sleep
 - 🎯 Open to Data Science / ML Engineering opportunities — remote or hybrid
 - 📬 Reach me: [freddynyanda@proton.me](mailto:freddynyanda@proton.me)
 
