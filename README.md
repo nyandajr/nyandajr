@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="banner.svg" width="100%" alt="Freddy Nyanda - ML Engineer Banner"/>
+  <img src="banner.svg" width="100%" alt="Freddy Nyanda – ML Engineer Circuit Banner"/>
 </div>
 
----
+<br/>
 
 <div align="center">
 
-# Hey, I'm Freddy Nyanda 👋🇹🇿
+# Hey, I'm Freddy Nyanda 👋 🇹🇿
 
-### Data Scientist · ML Engineer · Builder of things that matter
-### Dar es Salaam, Tanzania 🌍
+**Data Scientist · ML Engineer · Builder of things that matter**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+from+raw+data;MLOps+%7C+CI%2FCD+%7C+Azure+%7C+PySpark;Automating+production+ML+pipelines;Open+to+remote+%26+hybrid+opportunities)](https://git.io/typing-svg)
+*Dar es Salaam, Tanzania 🌍*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=Turning+raw+data+into+intelligent+systems;MLOps+%7C+CI%2FCD+%7C+Azure+%7C+PySpark;Automating+production+ML+pipelines;LightGBM+%E2%86%92+FastAPI+%E2%86%92+Docker+%E2%86%92+Azure;Open+to+remote+%26+hybrid+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,11 +20,11 @@
 
 ## 🚀 About Me
 
-Passionate about turning raw data into intelligent systems. I build pipelines, train models, and automate production workflows to deliver measurable impact — from data ingestion with **PySpark** to model deployment on **Azure** with full **MLOps CI/CD**.
+Passionate about turning raw data into intelligent systems. I build end-to-end pipelines, train production models, and automate deployment workflows to deliver measurable impact — from large-scale data processing with **PySpark** to model serving on **Azure** with full **MLOps CI/CD**.
 
 - 🎯 Open to Data Science / ML Engineering opportunities — remote or hybrid
-- ☁️ Actively building on **Azure ML** and exploring **MLOps** architecture patterns
-- 🔥 Currently: LightGBM → FastAPI → Docker → GitHub Actions → Azure
+- ☁️ Actively building on **Azure ML** and **MLOps** architecture patterns
+- ⚡ Stack: `PySpark` → `LightGBM` → `FastAPI` → `Docker` → `GitHub Actions` → `Azure`
 - 📬 Reach me: [freddynyanda@proton.me](mailto:freddynyanda@proton.me)
 
 ---
@@ -33,20 +34,20 @@ Passionate about turning raw data into intelligent systems. I build pipelines, t
 **Languages & Big Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **ML & Data Science**
 
-![LightGBM](https://img.shields.io/badge/LightGBM-00BFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00BFFF?style=for-the-badge&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**MLOps, Cloud & DevOps**
+**MLOps · Cloud · DevOps**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-00BFFF?style=for-the-badge&logoColor=white)
@@ -62,11 +63,15 @@ Passionate about turning raw data into intelligent systems. I build pipelines, t
 
 <div align="center">
 
-[![Freddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyandajr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=050b18&title_color=00bfff&icon_color=00bfff&text_color=4da6ff)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=nyandajr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=050b18&title_color=00bfff&icon_color=00bfff&text_color=4da6ff" alt="Freddy's GitHub Stats"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nyandajr&theme=radical&hide_border=true&background=050b18&ring=00bfff&fire=4da6ff&currStreakLabel=00bfff&sideLabels=4da6ff&dates=1a4f72)](https://git.io/streak-stats)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyandajr&layout=compact&theme=radical&hide_border=true&bg_color=050b18&title_color=00bfff&text_color=4da6ff)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=nyandajr&theme=radical&hide_border=true&background=050b18&ring=00bfff&fire=4da6ff&currStreakLabel=00bfff&sideLabels=4da6ff&dates=1a4f72&stroke=0a2040" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyandajr&layout=compact&theme=radical&hide_border=true&bg_color=050b18&title_color=00bfff&text_color=4da6ff" alt="Top Languages"/>
 
 </div>
 
@@ -75,16 +80,18 @@ Passionate about turning raw data into intelligent systems. I build pipelines, t
 ## 🌟 Featured Projects
 
 ### 📈 [EA Financial Tracker](https://github.com/nyandajr/ea-financial-tracker)
-> Hourly East African forex & crypto tracker with ML predictions. Tracks **USD/TZS, USD/KES, USD/UGX, USD/EUR + BTC, ETH, BNB**. Auto-commits data every hour via GitHub Actions CI/CD pipeline.
+
+> Hourly East African forex & crypto tracker with ML predictions. Tracks **USD/TZS, USD/KES, USD/UGX, USD/EUR** + **BTC, ETH, BNB**. Fully automated — data ingestion, model inference and GitHub commits every hour via GitHub Actions CI/CD.
 >
-> `Python` `GitHub Actions` `Streamlit` `CI/CD`
+> `Python` `GitHub Actions` `Streamlit` `ML` `CI/CD`
 >
 > 🔴 **Live:** [ea-financial-tracker.streamlit.app](https://ea-financial-tracker.streamlit.app)
 
 ---
 
 ### 📰 [East Africa News Sentiment](https://github.com/nyandajr/East_Africa_News_Sentiment)
-> NLP sentiment analysis pipeline for East African news headlines. Hourly automated scraping, **VADER scoring**, and trend visualization — fully automated via GitHub Actions.
+
+> NLP sentiment analysis pipeline for East African news headlines. Hourly automated scraping, **VADER scoring**, and trend visualization — zero manual intervention, runs entirely on GitHub Actions.
 >
 > `Python` `NLP` `VADER` `Streamlit` `GitHub Actions`
 >
@@ -93,20 +100,22 @@ Passionate about turning raw data into intelligent systems. I build pipelines, t
 ---
 
 ### 🚗 Car Price Predictor TZ
-> **LightGBM** model served via **FastAPI** REST endpoint with full **MLOps CI/CD** pipeline — Docker containerised, GitHub Actions automated, Azure deployment ready. Tanzania automotive market pricing intelligence.
+
+> **LightGBM** model served via **FastAPI** REST endpoint — fully containerised with Docker, deployed via GitHub Actions CI/CD, Azure-ready. Tanzania automotive market pricing intelligence.
 >
 > `LightGBM` `FastAPI` `Docker` `GitHub Actions` `Azure` `MLOps`
 
 ---
 
 ### 💳 [Credit Card Customer Segmentation](https://github.com/nyandajr/credit-card-segmentation)
-> **K-Means clustering** on 8,950 credit card customers. Identified 3 key segments: Active Spenders, Inactive Users, Cash Borrowers. Full EDA with heatmaps, boxplots and radar charts.
+
+> **K-Means clustering** on 8,950 credit card customers. Identified 3 behavioural segments: Active Spenders, Inactive Users, Cash Borrowers. Full EDA with heatmaps, boxplots and radar charts.
 >
 > `Python` `Scikit-learn` `K-Means` `EDA` `Matplotlib`
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
