@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-    <img src="banner-dark.svg" width="100%" alt="Freddy Nyanda – ML Engineer Circuit Banner"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/nyandajr/nyandajr/main/banner.svg" width="100%" alt="Freddy Nyanda – ML Engineer Circuit Banner"/>
 </div>
 
 <br/>
