@@ -84,13 +84,24 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 
 <div align="center">
 
+![2026 Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fnyandajr%3Fy%3D2026&query=total&style=for-the-badge&label=2026%20Contributions&color=00bfff&labelColor=050b18&logo=github)
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyandajr&theme=github_dark" alt="Profile Summary" width="100%"/>
+
+<br/>
+
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nyandajr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=050b18&title_color=00bfff&icon_color=00bfff&text_color=4da6ff" alt="Freddy's GitHub Stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyandajr&theme=github_dark" alt="Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.demolab.com?user=nyandajr&theme=radical&hide_border=true&background=050b18&ring=00bfff&fire=4da6ff&currStreakLabel=00bfff&sideLabels=4da6ff&currStreakNum=ffffff&sideNums=ffffff&dates=4da6ff" alt="Freddy's GitHub Streak"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nyandajr&theme=github_dark&utcOffset=3" alt="Productive Time"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyandajr&theme=github_dark" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -98,10 +109,6 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyandajr&bg_color=050b18&color=4da6ff&line=00bfff&point=8fd3ff&area=true&hide_border=true&custom_title=2026%20Contribution%20Activity" alt="Freddy's Contribution Graph"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyandajr&layout=compact&theme=radical&hide_border=true&bg_color=050b18&title_color=00bfff&text_color=4da6ff&count_private=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
