@@ -84,15 +84,20 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nyandajr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=050b18&title_color=00bfff&icon_color=00bfff&text_color=4da6ff" alt="Freddy's GitHub Stats"/>
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nyandajr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=050b18&title_color=00bfff&icon_color=00bfff&text_color=4da6ff" alt="Freddy's GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.demolab.com?user=nyandajr&theme=radical&hide_border=true&background=050b18&ring=00bfff&fire=4da6ff&currStreakLabel=00bfff&sideLabels=4da6ff&currStreakNum=ffffff&sideNums=ffffff&dates=4da6ff" alt="Freddy's GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=nyandajr&theme=radical&hide_border=true&background=050b18&ring=00bfff&fire=4da6ff&currStreakLabel=00bfff&sideLabels=4da6ff&currStreakNum=ffffff&sideNums=ffffff&dates=4da6ff" alt="Freddy's GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyandajr&bg_color=050b18&color=4da6ff&line=00bfff&point=8fd3ff&area=true&hide_border=true" alt="Freddy's Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyandajr&bg_color=050b18&color=4da6ff&line=00bfff&point=8fd3ff&area=true&hide_border=true&custom_title=2026%20Contribution%20Activity" alt="Freddy's Contribution Graph"/>
 
 <br/>
 
