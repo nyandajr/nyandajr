@@ -84,7 +84,7 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 
 <div align="center">
 
-![2026 Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fnyandajr%3Fy%3D2026&query=total&style=for-the-badge&label=2026%20Contributions&color=00bfff&labelColor=050b18&logo=github)
+![2026 Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fnyandajr%3Fy%3D2026&query=%24.total.2026&style=for-the-badge&label=2026%20Contributions&color=00bfff&labelColor=050b18&logo=github)
 
 <br/><br/>
 
