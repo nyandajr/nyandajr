@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nyandajr/nyandajr/main/banner.svg" width="100%" alt="Freddy Nyanda – ML Engineer Circuit Banner"/>
+  <img src="https://raw.githubusercontent.com/nyandajr/nyandajr/main/banner.gif" width="100%" alt="Freddy Nyanda – ML Engineer Circuit Banner"/>
 </div>
 
 <br/>
@@ -87,10 +87,6 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 ![2026 Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fnyandajr%3Fy%3D2026&query=total&style=for-the-badge&label=2026%20Contributions&color=00bfff&labelColor=050b18&logo=github)
 
 <br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyandajr&theme=github_dark" alt="Profile Summary" width="100%"/>
-
-<br/>
 
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
