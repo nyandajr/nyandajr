@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="banner.svg" width="100%" alt="Freddy Nyanda – ML Engineer Circuit Banner"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+    <img src="banner-dark.svg" width="100%" alt="Freddy Nyanda – ML Engineer Circuit Banner"/>
+  </picture>
 </div>
 
 <br/>
@@ -19,11 +23,11 @@
 
 ## 🚀 About Me
 
-Passionate about turning raw data into intelligent systems. I build end-to-end pipelines, train production-grade models, and automate deployment workflows that deliver measurable business impact.
+Passionate about turning raw data into intelligent systems. I build end-to-end pipelines, train production-grade models, and automate deployment workflows that deliver measurable impact.
 
 - 🎯 Open to Data Science / ML Engineering opportunities — remote or hybrid
 - ☁️ Building strongly on Azure ML and production MLOps patterns
-- ⚡ Stack focus: PySpark → LightGBM → FastAPI → Docker → GitHub Actions → Azure
+- ⚡ Stack focus: `PySpark` → `LightGBM` → `FastAPI` → `Docker` → `GitHub Actions` → `Azure`
 - 📬 Reach me: [freddynyanda@proton.me](mailto:freddynyanda@proton.me)
 
 ---
@@ -84,7 +88,11 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nyandajr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=050b18&title_color=00bfff&icon_color=00bfff&text_color=4da6ff" alt="Freddy's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nyandajr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=050b18&title_color=00bfff&icon_color=00bfff&text_color=4da6ff" alt="Freddy's GitHub Stats"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyandajr&bg_color=050b18&color=4da6ff&line=00bfff&point=8fd3ff&area=true&hide_border=true" alt="Freddy's Contribution Graph"/>
 
 <br/>
 
@@ -102,7 +110,7 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 **Solution:** Built an automated forecasting and tracking pipeline for USD/TZS, USD/KES, USD/UGX, USD/EUR plus BTC, ETH, BNB with scheduled CI/CD updates.  
 **Impact:** Zero-touch hourly refresh with always-updated visual insights.
 
-Tech: Python · GitHub Actions · Streamlit · ML · CI/CD  
+Tech: `Python` `GitHub Actions` `Streamlit` `ML` `CI/CD`  
 🔴 Live: [ea-financial-tracker.streamlit.app](https://ea-financial-tracker.streamlit.app)
 
 ---
@@ -113,7 +121,7 @@ Tech: Python · GitHub Actions · Streamlit · ML · CI/CD
 **Solution:** Built an automated DSN monitoring pipeline that ingests NASA feed data, engineers features, scores anomalies, and publishes a live operations dashboard.  
 **Impact:** Continuous spacecraft contact monitoring with near real-time anomaly visibility.
 
-Tech: Python · Streamlit · GitHub Actions · Pandas · Matplotlib · MLOps  
+Tech: `Python` `Streamlit` `GitHub Actions` `Pandas` `Matplotlib` `MLOps`  
 🔴 Live: [dsn-anomaly-tracker.streamlit.app](https://dsn-anomaly-tracker.streamlit.app)
 
 ---
@@ -124,7 +132,7 @@ Tech: Python · Streamlit · GitHub Actions · Pandas · Matplotlib · MLOps
 **Solution:** Automated scraping + VADER sentiment scoring + trend dashboards running fully on GitHub Actions.  
 **Impact:** Continuous sentiment intelligence with no manual intervention.
 
-Tech: Python · NLP · VADER · Streamlit · GitHub Actions  
+Tech: `Python` `NLP` `VADER` `Streamlit` `GitHub Actions`  
 🔴 Live: [eastafricanewssentiment.streamlit.app](https://eastafricanewssentiment.streamlit.app)
 
 ---
@@ -135,7 +143,7 @@ Tech: Python · NLP · VADER · Streamlit · GitHub Actions
 **Solution:** Applied K-Means clustering with full EDA and behavioral profiling.  
 **Impact:** Identified actionable customer groups for targeting and retention.
 
-Tech: Python · Scikit-learn · K-Means · EDA · Matplotlib
+Tech: `Python` `Scikit-learn` `K-Means` `EDA` `Matplotlib`
 
 ---
 
