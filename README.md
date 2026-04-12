@@ -42,13 +42,11 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 
 ## 📈 Impact Snapshot
 
-Replace the values below with your verified numbers from real projects.
-
-- ✅ Built and automated **[X]** production data/ML pipelines
-- ✅ Reduced manual reporting effort by **[X]%** through automation
-- ✅ Deployed **[X]** ML-powered applications to cloud environments
-- ✅ Improved model or forecasting performance by **[X]%** on key use-cases
-- ✅ Designed CI/CD workflows running every **[X]** minutes/hours with zero-touch updates
+- ✅ Built and automated production data and ML pipelines for real-world use cases
+- ✅ Reduced manual reporting effort through end-to-end workflow automation
+- ✅ Deployed ML-powered applications to cloud environments with CI/CD
+- ✅ Improved model and forecasting reliability across practical projects
+- ✅ Designed zero-touch CI/CD workflows for scheduled, continuous updates
 
 ---
 
@@ -109,6 +107,17 @@ Tech: Python · GitHub Actions · Streamlit · ML · CI/CD
 
 ---
 
+### 🛰️ [DSN Anomaly Tracker](https://github.com/nyandajr/dsn-anomaly-tracker)
+
+**Problem:** Deep Space Network signal behavior changes rapidly and is difficult to monitor manually.  
+**Solution:** Built an automated DSN monitoring pipeline that ingests NASA feed data, engineers features, scores anomalies, and publishes a live operations dashboard.  
+**Impact:** Continuous spacecraft contact monitoring with near real-time anomaly visibility.
+
+Tech: Python · Streamlit · GitHub Actions · Pandas · Matplotlib · MLOps  
+🔴 Live: [dsn-anomaly-tracker.streamlit.app](https://dsn-anomaly-tracker.streamlit.app)
+
+---
+
 ### 📰 [East Africa News Sentiment](https://github.com/nyandajr/East_Africa_News_Sentiment)
 
 **Problem:** News sentiment shifts quickly and manually tracking mood trends is inefficient.  
@@ -120,20 +129,10 @@ Tech: Python · NLP · VADER · Streamlit · GitHub Actions
 
 ---
 
-### 🚗 Car Price Predictor TZ
-
-**Problem:** Vehicle pricing in local markets can be inconsistent and hard to benchmark.  
-**Solution:** Trained LightGBM model, exposed through FastAPI, containerized with Docker, CI/CD-ready and Azure-ready.  
-**Impact:** Faster, data-driven pricing estimates for the Tanzania auto market.
-
-Tech: LightGBM · FastAPI · Docker · GitHub Actions · Azure · MLOps
-
----
-
 ### 💳 [Credit Card Customer Segmentation](https://github.com/nyandajr/credit-card-segmentation)
 
 **Problem:** Customer behavior heterogeneity reduces effectiveness of one-size-fits-all strategies.  
-**Solution:** Applied K-Means clustering on 8,950 customers with full EDA and behavioral profiling.  
+**Solution:** Applied K-Means clustering with full EDA and behavioral profiling.  
 **Impact:** Identified actionable customer groups for targeting and retention.
 
 Tech: Python · Scikit-learn · K-Means · EDA · Matplotlib
