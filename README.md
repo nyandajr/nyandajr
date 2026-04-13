@@ -11,6 +11,8 @@
 **Data Scientist · ML Engineer · Builder of things that matter**  
 *Dar es Salaam, Tanzania 🌍*
 
+[![committers.top badge](https://user-badge.committers.top/tanzania/nyandajr.svg)](https://user-badge.committers.top/tanzania/nyandajr)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1300&color=00BFFF&center=true&vCenter=true&width=620&lines=Turning+raw+data+into+production+ML+systems;MLOps+pipelines+from+training+to+deployment;Open+to+ML+Engineer+and+Data+Scientist+roles)](https://git.io/typing-svg)
 
 </div>
@@ -166,6 +168,8 @@ Tech: `Python` `Scikit-learn` `K-Means` `EDA` `Matplotlib`
 <div align="center">
 
 "Build in silence. Let the commits speak."
+
+[![committers.top badge](https://user-badge.committers.top/tanzania/nyandajr.svg)](https://user-badge.committers.top/tanzania/nyandajr)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nyandajr&color=00bfff&style=flat-square&label=PROFILE+VIEWS)
 
