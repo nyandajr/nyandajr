@@ -25,7 +25,7 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 
 - 🎯 Open to Data Science / ML Engineering opportunities — remote or hybrid
 - ☁️ Building strongly on Azure ML and production MLOps patterns
-- ⚡ Stack focus: `PySpark` → `LightGBM` → `FastAPI` → `Docker` → `GitHub Actions` → `Azure`
+- ⚡ Stack focus: `PySpark` → `LightGBM` → `FastAPI` → `Docker` → `self-hosted cron + GitHub Actions` → `Azure`
 - 📬 Reach me: [freddynyanda@proton.me](mailto:freddynyanda@proton.me)
 
 ---
@@ -114,46 +114,67 @@ Passionate about turning raw data into intelligent systems. I build end-to-end p
 
 ## 🌟 Featured Projects
 
+### 🗺️ [Strait of Hormuz Monitor](https://github.com/nyandajr/hormuz-strait-monitor)
+
+**Problem:** The Strait of Hormuz closure is one of 2026's biggest live geopolitical stories, and there was no accessible way to track real vessel activity there against the reported crisis numbers.  
+**Solution:** Built a persistent AIS-tracking pipeline on a self-hosted cloud VM (not GitHub Actions — websocket ingestion needs an always-on process) cross-referenced against live Brent crude prices, publishing a public dashboard.  
+**Impact:** Independently verified real-time vessel silence in the strait against a live control (Singapore Strait) rather than assuming the data source was reliable.
+
+Tech: `Python` `AIS/WebSockets` `SQLite` `Self-hosted Cron` `Oracle Cloud`  
+🔴 Live: [nyandajr.github.io/hormuz-strait-monitor](https://nyandajr.github.io/hormuz-strait-monitor)
+
+---
+
 ### 📈 [EA Financial Tracker](https://github.com/nyandajr/ea-financial-tracker)
 
 **Problem:** Real-time East African currency and crypto movements are hard to monitor consistently.  
-**Solution:** Built an automated forecasting and tracking pipeline for USD/TZS, USD/KES, USD/UGX, USD/EUR plus BTC, ETH, BNB with scheduled CI/CD updates.  
-**Impact:** Zero-touch hourly refresh with always-updated visual insights.
+**Solution:** Automated forecasting and tracking pipeline for USD/TZS, USD/KES, USD/UGX, USD/EUR plus BTC, ETH, BNB, running on self-hosted cron for reliable sub-hourly updates.  
+**Impact:** Crypto refreshed every 30 min, FX hourly, with always-updated ML forecasts.
 
-Tech: `Python` `GitHub Actions` `Streamlit` `ML` `CI/CD`  
+Tech: `Python` `Self-hosted Cron` `Streamlit` `Scikit-learn`  
 🔴 Live: [ea-financial-tracker.streamlit.app](https://ea-financial-tracker.streamlit.app)
+
+---
+
+### ⛽ [Global Fuel Watch](https://github.com/nyandajr/global-fuel-watch)
+
+**Problem:** Global fuel price intelligence across dozens of countries needs both frequent FX updates and rate-limited commodity data pulled at very different cadences.  
+**Solution:** Split-cadence pipeline — FX every 20 min, crude oil every 4 hours to respect a strict 25-request/day API quota discovered during migration — publishing petrol/diesel/LPG/crude tracking across 20 countries.  
+**Impact:** Sustainable, quota-safe live pricing data instead of a pipeline that silently burns through its API budget by midday.
+
+Tech: `Python` `Self-hosted Cron` `Pandas`  
 
 ---
 
 ### 🛰️ [DSN Anomaly Tracker](https://github.com/nyandajr/dsn-anomaly-tracker)
 
 **Problem:** Deep Space Network signal behavior changes rapidly and is difficult to monitor manually.  
-**Solution:** Built an automated DSN monitoring pipeline that ingests NASA feed data, engineers features, scores anomalies, and publishes a live operations dashboard.  
+**Solution:** Automated DSN monitoring pipeline that ingests NASA feed data, engineers features, scores anomalies, and publishes a live operations dashboard.  
 **Impact:** Continuous spacecraft contact monitoring with near real-time anomaly visibility.
 
-Tech: `Python` `Streamlit` `GitHub Actions` `Pandas` `Matplotlib` `MLOps`  
+Tech: `Python` `Streamlit` `Self-hosted Cron` `Pandas` `Matplotlib` `MLOps`  
 🔴 Live: [dsn-anomaly-tracker.streamlit.app](https://dsn-anomaly-tracker.streamlit.app)
+
+---
+
+### 🌦️ [Tanzania Climate Watch](https://github.com/nyandajr/tanzania-climate-watch)
+
+**Problem:** Weather anomalies across Tanzanian cities need continuous, reliable monitoring rather than a periodic manual check.  
+**Solution:** Automated pipeline covering 5 cities with ML temperature forecasting and z-score anomaly detection, running every 15 minutes on self-hosted cron.  
+**Impact:** Real anomalies caught live (e.g. flagged genuine pressure anomalies in Dar es Salaam and Zanzibar during testing).
+
+Tech: `Python` `Scikit-learn` `Self-hosted Cron`  
 
 ---
 
 ### 📰 [East Africa News Sentiment](https://github.com/nyandajr/East_Africa_News_Sentiment)
 
-**Problem:** News sentiment shifts quickly and manually tracking mood trends is inefficient.  
-**Solution:** Automated scraping + VADER sentiment scoring + trend dashboards running fully on GitHub Actions.  
-**Impact:** Continuous sentiment intelligence with no manual intervention.
+**Problem:** Mainstream news APIs' free tiers don't actually cover Kenya, Tanzania, Uganda, Rwanda, or Burundi — most "regional" news trackers built on them are silently fetching the wrong continent's content.  
+**Solution:** Diagnosed the coverage gap, then rebuilt on a per-country-verified source mix (NewsData.io for Kenya, Google News regional editions for Tanzania/Uganda, targeted search for Rwanda/Burundi) with VADER sentiment scoring.  
+**Impact:** Genuine regional coverage confirmed by source, not just by API response status.
 
-Tech: `Python` `NLP` `VADER` `Streamlit` `GitHub Actions`  
+Tech: `Python` `NLP` `VADER` `Streamlit` `Self-hosted Cron`  
 🔴 Live: [eastafricanewssentiment.streamlit.app](https://eastafricanewssentiment.streamlit.app)
-
----
-
-### 💳 [Credit Card Customer Segmentation](https://github.com/nyandajr/credit-card-segmentation)
-
-**Problem:** Customer behavior heterogeneity reduces effectiveness of one-size-fits-all strategies.  
-**Solution:** Applied K-Means clustering with full EDA and behavioral profiling.  
-**Impact:** Identified actionable customer groups for targeting and retention.
-
-Tech: `Python` `Scikit-learn` `K-Means` `EDA` `Matplotlib`
 
 ---
 
