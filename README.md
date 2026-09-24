@@ -19,7 +19,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/nyandajr/nyandajr/main/divider.svg" width="100%" height="24" alt=""/>
 
 ### 🛠️ Featured Projects
 
@@ -84,7 +84,7 @@ GitHub GraphQL-verified developer leaderboard for Tanzania, Kenya & Uganda — b
 </td></tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/nyandajr/nyandajr/main/divider.svg" width="100%" height="24" alt=""/>
 
 ### ⚙️ Core Stack
 
@@ -101,12 +101,13 @@ GitHub GraphQL-verified developer leaderboard for Tanzania, Kenya & Uganda — b
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/nyandajr/nyandajr/main/divider.svg" width="100%" height="24" alt=""/>
 
 ### 📊 Stats
 
 <div align="center">
 
+[![committers.top rank](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnyandajr%2Feast-africa-dev-leaderboard-%2Fmain%2Fdocs%2Fcommitters_rank_badge.json&style=for-the-badge)](https://nyandajr.github.io/east-africa-dev-leaderboard-/)
 ![2026 Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fnyandajr%3Fy%3D2026&query=%24.total.2026&style=for-the-badge&label=2026%20contributions&color=00bfff&labelColor=050b18&logo=github)
 ![Followers](https://img.shields.io/github/followers/nyandajr?style=for-the-badge&color=00bfff&labelColor=050b18&logo=github&label=followers)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnyandajr&query=%24.public_repos&style=for-the-badge&label=repos&color=00bfff&labelColor=050b18&logo=github)
@@ -114,7 +115,9 @@ GitHub GraphQL-verified developer leaderboard for Tanzania, Kenya & Uganda — b
 
 </div>
 
----
+<sub>Committers.top rank pulled and republished automatically by <a href="https://github.com/nyandajr/east-africa-dev-leaderboard-">East Africa Dev Ledger</a>'s own 5-day refresh — ranked by public contributions only, same methodology as the source.</sub>
+
+<img src="https://raw.githubusercontent.com/nyandajr/nyandajr/main/divider.svg" width="100%" height="24" alt=""/>
 
 <div align="center">
 
