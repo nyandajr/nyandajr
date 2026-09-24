@@ -16,21 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-nyanda-971233204/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00BFFF?style=flat-square&logo=github&logoColor=white)](https://nyandajr.github.io/portfolio_site/)
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:freddynyanda@proton.me)
-![2026 Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fnyandajr%3Fy%3D2026&query=%24.total.2026&style=flat-square&label=2026%20contributions&color=00bfff&labelColor=050b18&logo=github)
 
 </div>
-
----
-
-### 🔍 What actually makes these projects different
-
-Most of the trackers below started the same way: I went looking for the "obvious" data source, checked what it actually returned, and found it was wrong — then built something that verifies itself instead of trusting the label on the tin.
-
-| Assumed | Found on inspection | Response |
-|---|---|---|
-| committers.top's Tanzania #2 was a top contributor | ~137,000 commits, messages literally `"commit 5000"`, all in the same second — and the site itself hadn't updated in 3 weeks | Built [**East Africa Dev Ledger**](https://nyandajr.github.io/east-africa-dev-leaderboard-/) — real GitHub GraphQL numbers, refreshed every 5 days, farming pattern documented not hidden |
-| OpenSky had usable East Africa flight coverage | A bounding box over the whole region returned **2** tracked aircraft vs. 735 in a same-size European box — the receivers just aren't there | Rebuilt [**Flight Emissions Tracker**](https://nyandajr.github.io/global-flight-emissions-tracker/) as a global tracker with the coverage gap itself reported as a data point |
-| NewsAPI's free tier covered Kenya/Tanzania/Uganda | ~0.75% of "East Africa" rows were even regionally labeled, and those were AP wire stories, not local outlets | Rebuilt [**News Sentiment**](https://eastafricanewssentiment.streamlit.app) on a per-country-verified source mix |
 
 ---
 
@@ -120,20 +107,17 @@ GitHub GraphQL-verified developer leaderboard for Tanzania, Kenya & Uganda — b
 
 <div align="center">
 
-<!--START_SECTION:metrics-->
-<img src="https://raw.githubusercontent.com/nyandajr/nyandajr/main/github-metrics.svg" alt="GitHub metrics" width="100%"/>
-<!--END_SECTION:metrics-->
+![2026 Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fnyandajr%3Fy%3D2026&query=%24.total.2026&style=for-the-badge&label=2026%20contributions&color=00bfff&labelColor=050b18&logo=github)
+![Followers](https://img.shields.io/github/followers/nyandajr?style=for-the-badge&color=00bfff&labelColor=050b18&logo=github&label=followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnyandajr&query=%24.public_repos&style=for-the-badge&label=repos&color=00bfff&labelColor=050b18&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=nyandajr&color=00bfff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<sub>Self-hosted via a scheduled GitHub Action that commits this SVG straight to the repo — same reasoning as every tracker above: a third-party widget going down (or hitting its free-tier billing cap, as the last version of this graph did) isn't a risk worth carrying when self-hosting it is one workflow file.</sub>
 
 ---
 
 <div align="center">
 
-"Build in silence. Let the commits speak."
-
-![Profile Views](https://komarev.com/ghpvc/?username=nyandajr&color=00bfff&style=flat-square&label=PROFILE+VIEWS)
+**"Build in silence. Let the commits speak."**
 
 </div>
