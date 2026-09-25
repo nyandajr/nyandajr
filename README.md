@@ -11,7 +11,7 @@
 **Data Scientist · ML Engineer**
 *Dar es Salaam, Tanzania*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1300&color=00BFFF&center=true&vCenter=true&width=640&lines=I+don%27t+trust+a+data+source+until+I%27ve+verified+it+live;Found+committers.top+ranking+farmed+commits+%232+%E2%86%92+built+a+real+one;Found+OpenSky%27s+East+Africa+coverage+was+a+dead+zone+%E2%86%92+went+global;Open+to+ML+Engineer+%2F+Data+Scientist+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1300&color=00BFFF&center=true&vCenter=true&width=640&lines=I+don%27t+trust+a+data+source+until+I%27ve+verified+it+live;Built+a+live+crypto+sentiment+index%2C+refreshed+every+3+minutes;Found+OpenSky%27s+East+Africa+coverage+was+a+dead+zone+%E2%86%92+went+global;Open+to+ML+Engineer+%2F+Data+Scientist+roles)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-nyanda-971233204/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00BFFF?style=flat-square&logo=github&logoColor=white)](https://nyandajr.github.io/portfolio_site/)
@@ -26,26 +26,34 @@
 <table>
 <tr><td width="50%" valign="top">
 
+**🪙 [Global Crypto Sentiment Index](https://github.com/nyandajr/global-crypto-sentiment)**
+Composite sentiment index blending real price momentum, real crowd-sourced sentiment votes, and real NLP on live news — refreshed every 3 minutes, around the clock.
+`Python` `VADER` `CoinGecko API` `Self-hosted Cron`
+🔴 [Live](https://nyandajr.github.io/global-crypto-sentiment/)
+
+</td><td width="50%" valign="top">
+
 **🗺️ [Strait of Hormuz Monitor](https://github.com/nyandajr/hormuz-strait-monitor)**
 Live AIS vessel tracking through the strait, cross-referenced against Brent crude — independently confirmed real vessel silence against a live control strait, not an assumption.
 `Python` `AIS/WebSockets` `Oracle Cloud`
 🔴 [Live](https://nyandajr.github.io/hormuz-strait-monitor)
 
-</td><td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
 
 **📈 [EA Financial Tracker](https://github.com/nyandajr/ea-financial-tracker)**
 TZS/KES/UGX + BTC/ETH/BNB tracking with ML forecasting, crypto every 30 min, FX hourly.
 `Python` `Streamlit` `Scikit-learn`
 🔴 [Live](https://ea-financial-tracker.streamlit.app)
 
-</td></tr>
-<tr><td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 **⛽ [Global Fuel Watch](https://github.com/nyandajr/global-fuel-watch)**
 Petrol/diesel/LPG/crude across 20 countries — split-cadence pipeline built around a hard-learned 25-request/day crude API quota.
 `Python` `Pandas` `Self-hosted Cron`
 
-</td><td width="50%" valign="top">
+</td></tr>
+<tr><td colspan="2">
 
 **🛰️ [DSN Anomaly Tracker](https://github.com/nyandajr/dsn-anomaly-tracker)**
 NASA Deep Space Network signal monitoring with live anomaly scoring.
