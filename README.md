@@ -116,7 +116,6 @@ GitHub GraphQL-verified developer leaderboard for Tanzania, Kenya & Uganda — b
 <div align="center">
 
 [![committers.top rank](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnyandajr%2Feast-africa-dev-leaderboard-%2Fmain%2Fdocs%2Fcommitters_rank_badge.json&style=for-the-badge)](https://nyandajr.github.io/east-africa-dev-leaderboard-/)
-[![path to #1](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnyandajr%2Feast-africa-dev-leaderboard-%2Fmain%2Fdocs%2Fcatchup_badge.json&style=for-the-badge)](https://nyandajr.github.io/east-africa-dev-leaderboard-/)
 ![2026 Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fnyandajr%3Fy%3D2026&query=%24.total.2026&style=for-the-badge&label=2026%20contributions&color=00bfff&labelColor=050b18&logo=github)
 ![Followers](https://img.shields.io/github/followers/nyandajr?style=for-the-badge&color=00bfff&labelColor=050b18&logo=github&label=followers)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnyandajr&query=%24.public_repos&style=for-the-badge&label=repos&color=00bfff&labelColor=050b18&logo=github)
