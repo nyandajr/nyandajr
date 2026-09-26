@@ -49,8 +49,9 @@ TZS/KES/UGX + BTC/ETH/BNB tracking with ML forecasting, crypto every 30 min, FX 
 </td><td width="50%" valign="top">
 
 **⛽ [Global Fuel Watch](https://github.com/nyandajr/global-fuel-watch)**
-Petrol/diesel/LPG/crude across 20 countries — split-cadence pipeline built around a hard-learned 25-request/day crude API quota.
+Real crude/FX tracking plus verified retail petrol/diesel prices for 9 countries — found the README claiming 20 when 19 scrapers were empty, fixed it the honest way instead of deleting the claim.
 `Python` `Pandas` `Self-hosted Cron`
+🔴 [Live](https://global-fuel-watch-nyandajr.streamlit.app/)
 
 </td></tr>
 <tr><td colspan="2">
